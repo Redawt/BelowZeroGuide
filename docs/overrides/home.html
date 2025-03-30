@@ -1,0 +1,45 @@
+{#-
+    This file was automatically generated - do not edit
+  -#}
+  {% extends "main.html" %}
+  {% block tabs %}
+    {{ super() }}
+    <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none} }
+        body{
+            background-color: black
+        ;} 
+
+    </style>
+        <!--body{
+            background-image: url('/assets/images/FROST.jpg');
+            background-repeat: no-repeat;
+            background-size: 1920px 1080px
+        ;} -->
+
+    <section class="mdx-container">
+      <div class="md-grid md-typeset">
+        <div class="mdx-hero">
+          <div class="mdx-hero__content">
+            <p> </p>
+            <p> </p>
+            <div class="mdx-hero__image">
+              <img src="/assets/images/FROST.jpg" alt="" width="60%" height="60%" draggable="false"> 
+            </div>
+            <h1>Below Zero -  A FROST modding guide</h1>
+            <p>An extensive guide for modding beginners and experts.</p>
+
+            <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button">
+              Click here to start
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endblock %}
+  
+  {% block content %}
+  {{ super() }}
+  {% endblock %}
+  
+  {% block footer %}{% endblock %}
+  

@@ -1,0 +1,96 @@
+site_name: Below Zero
+theme:
+  name: material
+  favicon: assets/favicon.png
+  logo: assets/logo.svg
+  custom_dir: docs/overrides
+  palette: 
+    # Darkmode Theme
+    scheme: slate
+    # Primary Color: header, the sidebar, text links and several other components
+    primary: black
+    # Accent Color:  elements that can be interacted with, e.g. hovered links, buttons and scrollbars
+    accent: blue
+  features:
+    - navigation.footer
+    - navigation.instant
+    # - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+    - search.suggest
+    - navigation.indexes # (1)!
+    - content.tooltips
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/BaKsm7Fn4A
+      name: FROST Discord Server
+    - icon: fontawesome/brands/github
+      link: /
+      name: Below Zero on GitHub
+    - icon: simple/kofi
+      link: https://ko-fi.com/redawt
+      name: Redawt's Ko-Fi
+    - icon: simple/patreon
+      link: https://www.patreon.com/redawt
+      name: Redawt's Patreon
+    - icon: simple/nexusmods
+      link: https://www.nexusmods.com/fallout4/mods/18898
+      name: FROST Nexuspage
+    - icon: simple/reddit
+      link: https://www.reddit.com/r/fodust/
+      name: FROST Subreddit
+    
+nav:
+  - Home: index.md
+  - Introduction: 
+    - Introduction: introduction/index.md
+    - Requirements: introduction/requirements.md
+  - Guide:
+    - How this guide works: guide/index.md # (1)!
+    - 1. Installing the game: guide/initial-game-setup.md
+    - 2. Mod Manager: guide/mo2-setup.md
+    - 3. Utilities: guide/utilities-setup.md
+    - 4. Bug Fixes: guide/bug-fixes-setup.md
+    - 5. Important Mods: guide/important-mods-setup.md
+    - 6. User Interface: guide/user-interface-setup.md
+    - 7. Graphics: guide/graphics-setup.md
+    - 8. Frost Mods: guide/frost-core-setup.md
+    - 9. Load Order: guide/load-order-setup.md
+    - 10. Starting the Game: guide/starting-game.md
+    - 11. Troubleshooting: guide/troubleshooting.md
+    - 12. Adding more mods: guide/adding-more-mods.md
+  - Additional Mods: additional-mods.md
+  - FAQ: 
+    - FAQ: faq/index.md
+    - General: faq/faq-general.md
+    - Compatbility: faq/faq-compatibility.md
+
+plugins:
+  - search
+  # https://github.com/mondeja/mkdocs-include-markdown-plugin
+  # - include-markdown
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
