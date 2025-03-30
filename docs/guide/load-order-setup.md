@@ -30,7 +30,7 @@ If you are already familiar with how to do this, skip this subsection.
 
     === "MO2"
 
-        ![MO2 Panes](/assets/images/mo2-panes.png)
+        ![MO2 Panes](../assets/images/mo2-panes.png)
         If you want more details, read [this MO2 guide :simple-github:](https://github.com/sower-j/modding-guides/blob/main/images/mo2-panes.png)
 
         <div class="grid cards" markdown>

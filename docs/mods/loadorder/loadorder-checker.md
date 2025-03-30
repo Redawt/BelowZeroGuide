@@ -17,12 +17,12 @@ Make sure that you copy all the content of your load order into the text field.
     === "MO2"
         If you use **MO2**, you can find your **loadorder.txt** here:
 
-        ![MO2 LO location](/assets/images/mo2_load_order_location.png)
+        ![MO2 LO location](../assets/images/mo2_load_order_location.png)
 
     === "Vortex"
         If you use **Vortex**, you can find your **loadorder.txt** here:
 
-        ![Vortex LO location](/assets/images/vortex-load-order-find.png)
+        ![Vortex LO location](../assets/images/vortex-load-order-find.png)
 
         Alternatively, you can find your **loadorder.txt** in `C:/Users/[YourUsername]/AppData/Local/Fallout4`
 

@@ -11,4 +11,4 @@ Fixes thousands of bugs with both the base game and DLCs
 
 !!! warning "Make sure to download the right version!"
     Make sure to download the right version of this mod, as shown in the picture
-    ![UFO4P Download Picture](/assets/images/ufo4p.png)
+    ![UFO4P Download Picture](../assets/images/ufo4p.png)

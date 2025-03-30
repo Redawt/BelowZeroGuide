@@ -10,7 +10,7 @@ Why isn't this mod hosted on Nexus? You can ask Greslin himself on his Discord S
 
 ### Pre-Installation Instructions
 !!! info inline end ""
-    ![Join Greslin Image](/assets/images/join_greslin.png "Join Greslin Games!")
+    ![Join Greslin Image](../assets/images/join_greslin.png "Join Greslin Games!")
 
 1. Join the **[Greslin Games Discord Server :simple-discord:](https://discord.gg/jMUnXDV)**
 2. Read the **[#read-this-first :simple-discord:](https://discord.com/channels/408380281209356299/606581678059814937)** channel of the server
@@ -25,19 +25,19 @@ Why isn't this mod hosted on Nexus? You can ask Greslin himself on his Discord S
 === "MO2"
 
     !!! info inline end ""
-        ![Download PANPC](/assets/images/find_panpc.png "Download PANPC!")
+        ![Download PANPC](../assets/images/find_panpc.png "Download PANPC!")
 
     1. In the **[#releases-latest :simple-discord:](https://discord.com/channels/408380281209356299/929147656469626950/1199517745121857686)** channel, you can find the newest version of PANPC
         * you might have to scroll up a bit
     2. Download the **PANPC** file in the channel, and save it somewhere on your computer (like the `Downloads`)
-    3. Once the download has finished, click the ![mo2 archive button](/assets/images/mo2_archive.webp) button at the top of MO2
+    3. Once the download has finished, click the ![mo2 archive button](../assets/images/mo2_archive.webp) button at the top of MO2
     4. From the new window, navigate to where the PANPC was downloaded to and double-click it
     5. Finish the install normally
         * The FROST patch for PANPC will be installed later
 
 === "Vortex"
     !!! info inline end ""
-        ![Download PANPC](/assets/images/find_panpc.png "Download PANPC!")
+        ![Download PANPC](../assets/images/find_panpc.png "Download PANPC!")
 
     1. In the **[#releases-latest :simple-discord:](https://discord.com/channels/408380281209356299/929147656469626950/1199517745121857686)** channel, you can find the newest version of PANPC
         * you might have to scroll up a bit

@@ -9,11 +9,11 @@ This **optional** section is about adding more mods on top of the Below Zero set
 ## Any mod recommendations?
 
 Yes, we have recommendations for additional mods that either work out of the box or need a patch, like weapon mods.
-Check out the [Additional Mods Section](/additional-mods).
+Check out the [Additional Mods Section](../../additional-mods).
 
 ---
 ## Before adding more mods...
-... you should check if your game is actually working properly. Start Fallout 4 through your mod manager with F4SE, and follow the entire intro sequence of FROST. Follow [Section 10. "Starting the Game"](/guide/starting-game). If you encounter any problems, read [Section 11. "Troubleshooting"](troubleshooting). If there are not any issues, you can continue following the current section
+... you should check if your game is actually working properly. Start Fallout 4 through your mod manager with F4SE, and follow the entire intro sequence of FROST. Follow [Section 10. "Starting the Game"](../guide/starting-game). If you encounter any problems, read [Section 11. "Troubleshooting"](../guide/troubleshooting). If there are not any issues, you can continue following the current section
 
 ---
 ## Installing and uninstalling mods mid-playthrough
@@ -86,5 +86,5 @@ A list of these mods can be found [here](https://www.nexusmods.com/fallout4/arti
 2. Check if they might be an incompatible mod according to the criteria above
 
 ### After adding new mods
-1. Sort your load order according to the **[sorting rules from Section 9 "Load Order"](/guide/load-order-setup/#load-order-structure)**.
-2. Check your load order with the **[Automatic Load Order Checker from Section 9](/guide/load-order-setup/#automatic-load-order-checker)**
+1. Sort your load order according to the **[sorting rules from Section 9](../load-order-setup)**.
+2. Check your load order with the **[Automatic Load Order Checker from Section 9](../load-order-setup)**

@@ -77,7 +77,7 @@ This section explains how to make a Clean Install of Fallout 4 to ensure its pro
     5. Click ==Accept== then ==Yes== if prompted to create a new folder.
     6. The tool will ask to exit, select ==OK==.
 
-    ![Steam Library Tool Setup](/assets/images/Steam Library Tool Setup.webp)
+    ![Steam Library Tool Setup](../assets/images/Steam Library Tool Setup.webp)
 
     ### Installing the game in Steam
     1. Open Steam and go to your ==Library==

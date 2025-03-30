@@ -6,12 +6,12 @@ You can get help over at the [**FROST Discord :simple-discord:**](https://discor
 
 ## My game crashes, has FPS issues, objects flicker/disappear, ...
 
-Please read the [Troubleshooting Section](/guide/troubleshooting) and the [compatibility FAQ section](/faq/faq-compatibility).
+Please read the [Troubleshooting Section](../../guide/troubleshooting) and the [compatibility FAQ section](../faq-compatibility).
 
 ## Any mod recommendations?
 
 Yes, we have recommendations for additional mods that either work out of the box or need a patch, like weapon mods.
-Check out the [Additional Mods Section](/additional-mods).
+Check out the [Additional Mods Section](../../additional-mods).
 
 ## Why does this guide require downgrading Fallout 4?
 

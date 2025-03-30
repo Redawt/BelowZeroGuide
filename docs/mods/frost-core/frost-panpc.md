@@ -15,7 +15,7 @@ Patches PANPC for FROST.
 
     1. Open this [PANPC Patches Google Drive repository](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM)
     * Download the `FROST PANPC 2.0.13+ 1.61.7z`, and save it somewhere on your computer (like the `Downloads` folder on your computer)
-    * Once the download has finished, click the ![mo2 archive button](/assets/images/mo2_archive.webp) button at the top of MO2
+    * Once the download has finished, click the ![mo2 archive button](../assets/images/mo2_archive.webp) button at the top of MO2
     * From the new window, navigate to where the PANPC was downloaded to and double-click it
     * Finish the install normally
     * The FROST PANPC contains several .esp files:

@@ -13,7 +13,7 @@ If your game crashes or shows a warning for some reason, that most likely means 
 !!! info "Reminder"
     You need to run the game through the F4SE option in Mod Organizer 2/Vortex.
 
-    ![F4SE in MO2](/assets/images/select_f4se.png "F4SE in MO2")
+    ![F4SE in MO2](../assets/images/select_f4se.png "F4SE in MO2")
 
 ---
 ## Main Menu

@@ -68,7 +68,7 @@ These mods *usually* need patches for technical or balancing reasons.
 Many frost mods and patches before 2019 have a high probability to be outdated or badly made, and will break things.
 A few FROST mods which were made after 2019 are also problematic.
 A list of these mods can be found **[here](https://www.nexusmods.com/fallout4/articles/3392)**. This list might not be complete.
-The **[Automatic Load Order Checker from Section 9](/guide/load-order-setup/#automatic-load-order-checker)** does know some of those incompatible mods. Make sure to use it to detect incompatible mods.
+The **[Automatic Load Order Checker from Section 9](../guide/load-order-setup/#automatic-load-order-checker)** does know some of those incompatible mods. Make sure to use it to detect incompatible mods.
 
 ---
 ## What do I need to do when adding more mods?
@@ -78,8 +78,8 @@ The **[Automatic Load Order Checker from Section 9](/guide/load-order-setup/#aut
 2. Check if they might be an incompatible mod according to the criteria above
 
 ### After adding new mods
-1. Sort your load order according to the **[sorting rules from Section 9 "Load Order"](/guide/load-order-setup/#load-order-structure)**.
-2. Check your load order with the **[Automatic Load Order Checker from Section 9](/guide/load-order-setup/#automatic-load-order-checker)**
+1. Sort your load order according to the **[sorting rules from Section 9 "Load Order"](../guide/load-order-setup/#load-order-structure)**.
+2. Check your load order with the **[Automatic Load Order Checker from Section 9](../guide/load-order-setup/#automatic-load-order-checker)**
 
 
 ## Will pirated copies work?

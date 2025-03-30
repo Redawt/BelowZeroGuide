@@ -8,15 +8,15 @@ This **optional** section tells you what to do in case you run into issues.
 ---
 
 !!! info "Don't have any issues?"
-    This section is optional and should only be read in case you ran into issues. If you followed sections 1-10 properly, you can start playing FROST, or you can go to [Section 12 "Adding more mods"](/guide/adding-more-mods) if you want to add some additional mods.
+    This section is optional and should only be read in case you ran into issues. If you followed sections 1-10 properly, you can start playing FROST, or you can go to [Section 12 "Adding more mods"](../adding-more-mods) if you want to add some additional mods.
 
 ## What went wrong?
 
 If followed this guide, and noticed an issue (CTDs, FPS drops, game doesn't start, ...), several things can be the cause of that.
 
 1. You didn't follow the guide correctly
-    * You have incompatible mods lingering in your game's Data folder, this is why a [clean slate](/guide/initial-game-setup/#making-a-clean-install-of-fallout-4) is required.
-    * You didn't read the [**Requirements**](/requirements) section
+    * You have incompatible mods lingering in your game's Data folder, this is why a [clean slate](../initial-game-setup#making-a-clean-install-of-fallout-4) is required.
+    * You didn't read the [**Requirements**](../introduction/requirements.md) section
     * You did not sort your mods correctly
     * ...
 2. The guide has an issue, considering that this guide was remade recently errors could have slipped in
@@ -36,7 +36,7 @@ If followed this guide, and noticed an issue (CTDs, FPS drops, game doesn't star
 
 Before asking us for help though, you should try:
 
-1. Run your load order through the **[Automatic Load Order Checker](/guide/load-order-setup/#automatic-load-order-checker)** from this guide
+1. Run your load order through the **[Automatic Load Order Checker](../load-order-setup#automatic-load-order-checker)** from this guide
 2. Visit the [**FROST Discord :simple-discord:**](https://discord.com/invite/BaKsm7Fn4A) and check out the [**#support-faq :simple-discord:**](https://discord.com/channels/238420126985224192/1244543694359756932) channel. It contains instructions about fixing common issues.
 3. Make sure that you did not forget to install a mod you've downloaded when following this guide.
 

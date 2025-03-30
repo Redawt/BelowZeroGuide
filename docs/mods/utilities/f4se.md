@@ -25,11 +25,11 @@ Extends the scripting capabilities of the game.
 
         If you did everything correctly, your **Root Folder** should look like this:
 
-        ![F4SE in Root folder](/assets/images/root.webp "F4SE in Root folder")
+        ![F4SE in Root folder](../assets/images/root.webp "F4SE in Root folder")
 
     === "Inside MO2"
         In order for the script extender to work, you need to **always** launch the game using the **f4se_loader.exe** file. 
         It will automatically be added to Mod Organizer 2 upon restarting it.   
 
-        ![F4SE in MO2](/assets/images/select_f4se.png "F4SE in MO2")
+        ![F4SE in MO2](../assets/images/select_f4se.png "F4SE in MO2")
 

@@ -57,13 +57,13 @@ That said, we are well aware that MO2 is not perfect, and it has its own set of 
 8. If you see a pop-up called ==INI file is read-only==, select **Remember my choice** from the drop-down at the bottom then click **Clear the read-only flag**.
 
 ### Configuring Settings
-1. Select the ![Settings Button Image](/assets/images/mo2_settings.webp "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
+1. Select the ![Settings Button Image](../assets/images/mo2_settings.webp "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
 2. In the **Theme** tab, you can select a different style from the drop-down menu at the top
     - I use the **vs15 Dark theme**
 3. In the **Nexus tab**, select **Connect to Nexus**
     * This option will not show up if you have already connected your Nexus account on a different MO2 instance
 
-  ![Connect to Nexus Image](/assets/images/mo2_connect.webp "Connect to Nexus Image")
+  ![Connect to Nexus Image](../assets/images/mo2_connect.webp "Connect to Nexus Image")
 
 
 
@@ -77,7 +77,7 @@ That said, we are well aware that MO2 is not perfect, and it has its own set of 
 Mod Organizer 2's **Profiles feature** allows for easy switching between different mod configurations. This is especially useful because you can easily switch between a FROST Profile and a non-FROST profile if you have the desire to play FROST and normal Fallout 4. In this step, we will create a profile for the guide while keeping a strictly-vanilla profile for testing/debugging. Profiles can be selected via the drop-down menu above the left pane. 
 
 
-1. Select the ![Profiles Button Image](/assets/images/mo2_profiles.webp "Profiles Button Image") mo2 profiles button at the top of MO2 to open the profile's menu
+1. Select the ![Profiles Button Image](../assets/images/mo2_profiles.webp "Profiles Button Image") mo2 profiles button at the top of MO2 to open the profile's menu
 2. Select the **Default profile**, then select **Copy**
 3. Name the new profile **FROST**
 Select the **FROST** profile and make sure **Use profile-specific Game INI Files** is checked at the bottom
@@ -88,7 +88,7 @@ You may get a pop-up called **INI file is read-only** when attempting to make/se
 
 5. Exit out of the profiles menu and select the **FROST** profile from the drop-down above the left panel
 
-![mo2 profiles menu](/assets/images/mo2profiles.png "mo2 profiles menu")
+![mo2 profiles menu](../assets/images/mo2profiles.png "mo2 profiles menu")
 
 ---
 ## Game Settings
@@ -133,7 +133,7 @@ In this step, we will download and run Bethini Pie, which will allow choosing op
 <!-- 
 This is a very important step!
 1. Make sure the **FROST** profile is active
-2. Click the ![mo2 INI button](/assets/images/mo2_ini.webp "mo2 INI button") at the top of MO2 and select **INI Editor**
+2. Click the ![mo2 INI button](../assets/images/mo2_ini.webp "mo2 INI button") at the top of MO2 and select **INI Editor**
 3. Select the **Fallout4Custom.ini** tab
 4. Paste in the following to **enable lose files**:
 ```
@@ -150,14 +150,14 @@ These settings allow for files from mods to be loaded in-game. It is intentional
 Keep in mind that your .ini file might look different or even empty, that is normal.
 Just make sure that the settings you've added (the ones in the red box in the picture) are present.
 
-![MO2 INI loose files](/assets/images/loosefiles.png "MO2 INI editor loose files")
+![MO2 INI loose files](../assets/images/loosefiles.png "MO2 INI editor loose files")
 
 ---
 ## INI Tweaks
 In this step, we will configure the game's INI files to increase performance/stability at minimal visual cost. 
 
 1. Make sure the **FROST** profile is active
-2. Click the ![MO2 INI button](/assets/images/mo2_ini.webp "MO2 INI button") at the top of MO2 and select **INI Editor**
+2. Click the ![MO2 INI button](../assets/images/mo2_ini.webp "MO2 INI button") at the top of MO2 and select **INI Editor**
 3. Select the **Fallout4Prefs.ini** tab
 4. Use ++ctrl+f++ to find and change the following options
     * Set ``fDirShadowDistance`` to 7000
@@ -188,9 +188,9 @@ These settings tweak shadows to drastically improve performance without much vis
     Vortex users do not need to do this step.
 
     1. Open the **drop-down menu** for the executables in MO2, and select **Edit**
-    ![MO2 Exectuable Image](/assets/images/MO2-Edit-Exe.png)
+    ![MO2 Exectuable Image](../assets/images/MO2-Edit-Exe.png)
     2. Add `-forcesteamloader` in the **Arguments** section of the **F4SE** executable
-    ![MO2 -forcesteamloader](/assets/images/MO2-GOG-Steamloader.png)
+    ![MO2 -forcesteamloader](../assets/images/MO2-GOG-Steamloader.png)
 
 
 !!! info "How to MO2"
@@ -207,7 +207,7 @@ When the guide says to install a mod, it will be formatted as follows:
 
 This is referring to the mod's ==files category== on Nexus, the ==file name==, and the ==file version==. Sometimes I will leave the file version out, in that case just download the newest version.
 
-![Image of FROST Files Section](/assets/images/download_example_new.png "Image of FROST Files Section")
+![Image of FROST Files Section](../assets/images/download_example_new.png "Image of FROST Files Section")
 
 !!! warning ""
     Unless instructed otherwise, simply download the listed file using the ==Mod Manager Download== button and install it through MO2.
@@ -225,7 +225,7 @@ This is referring to the mod's ==files category== on Nexus, the ==file name==, a
 If that is the case, do the following: 
 
 1. Click the **Manual Download** button on Nexus (or whatever the download button is for the respective site)
-2. Once the download has finished, click the ![mo2 archive button](/assets/images/mo2_archive.webp) button at the top of MO2
+2. Once the download has finished, click the ![mo2 archive button](../assets/images/mo2_archive.webp) button at the top of MO2
 3. From the new window, navigate to where the file was downloaded to and double-click it
 4. Finish the install normally
 
