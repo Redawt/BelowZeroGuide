@@ -1,5 +1,5 @@
 site_name: Below Zero
-site_url: https://redawt.github.io/BelowZeroGuide/
+# site_url: https://redawt.github.io/BelowZeroGuide/
 theme:
   name: material
   favicon: assets/favicon.png

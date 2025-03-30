@@ -17,7 +17,7 @@ By default, File Explorer will not show file extensions (such as .exe, .dll, or 
 2. Select the **View** tab at the top
 3. Enable ==File name extensions== in the **Show** section
 
-![File Extensions Image](/assets/images/file_extensions.webp)
+![File Extensions Image](../assets/images/file_extensions.webp)
 
 ---
 ## Making a Clean Install of Fallout 4
