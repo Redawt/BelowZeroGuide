@@ -3,9 +3,7 @@
 
 ## Description
 
-This is a static GitHub Pages website containing a [guide](https://redawt.github.io/BelowZeroGuide) for setting up **Fallout 4** and the [FROST Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898).
-
-Link: [https://redawt.github.io/BelowZeroGuide](https://redawt.github.io/BelowZeroGuide)
+This is a static GitHub Pages website containing a [guide](https://redawt.github.io/BelowZeroGuide) for setting up **Fallout 4** and the [FROST Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898). The project is a reimplementation of [my previous project (which was active from 2022-2025)](https://github.com/Redawt/f4-frost-guide).
 
 ## Requirements
 This GitHub project uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
