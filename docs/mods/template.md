@@ -36,3 +36,17 @@ Extends the scripting capabilities of the game.
         It will automatically be added to Mod Organizer 2 upon restarting it.   
 
         ![F4SE in MO2](../assets/images/select_f4se.png "F4SE in MO2")
+
+
+
+# Template for additional mods
+
+---
+## []()
+
+:material-tag-plus: `Optional`
+
+
+### Installation Instructions
+* Download and install 
+* Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)

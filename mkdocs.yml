@@ -66,7 +66,17 @@ nav:
     - 10. Starting the Game: guide/starting-game.md
     - 11. Troubleshooting: guide/troubleshooting.md
     - 12. Adding more mods: guide/adding-more-mods.md
-  - Additional Mods: additional-mods.md
+  - Additional Mods: 
+    - Additional Mods: additional-mods/index.md
+    - Weapons: additional-mods/weapons.md
+    - Textures: additional-mods/textures.md
+    - Environment: additional-mods/environment.md
+    - Gameplay: additional-mods/gameplay.md
+    - Sounds & Music: additional-mods/sounds&music.md
+    # - Graphics: additional-mods/graphics.md
+    # - Character Creation: additional-mods/character-creation.md
+    - Animations: additional-mods/animations.md
+    - Miscellaneous: additional-mods/miscellaneous.md
   - FAQ: 
     - FAQ: faq/index.md
     - General: faq/faq-general.md

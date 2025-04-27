@@ -10,6 +10,8 @@ This section tells you how to properly install and setup Mod Organizer 2 (MO2).
     You can alternatively use Vortex, but this guide does not provide details and information on how to use Vortex.
     If you use Vortex, you still need to read and follow the ==Game Settings== and the ==Mod Installation Instructions== part of this section.
 
+    **I do not recommend to use Vortex. I recommend to use MO2, especially for FROST setups.**
+
     **Never use two mod managers for the same game at once. This will mess things up badly.**
 
 ---

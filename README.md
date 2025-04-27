@@ -28,9 +28,10 @@ You can find all markdown files and image assets in the `docs` folder
 
 ```
 ├── docs
-│   ├── additional-mods.md
 │   ├── assets
 │   │   └──  [Contains all image files]
+│   ├── additional-mods
+│   │   └──  [Markdown files for the Additional Mods featured in the guide]
 │   ├── faq
 │   │   └──  [Markdown files for the FAQ section of the website.]
 │   ├── guide

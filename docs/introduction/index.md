@@ -27,6 +27,15 @@ Following that, you can follow the actual **[Guide](../guide)**, which contains 
 It also contains 2 optional sections for troubleshooting and for adding more mods.
 You can use the **Next** button at the bottom of each page to go to the next step of the guide for easier navigation.
 
+## A note for inexperienced/new modders
+Some newer players have mentioned that this guide feels long or that setting up FROST seems like a lot of work. In reality, about 90% of the Below Zero guide focuses on helping you build a proper, scalable, modern, and stable Fallout 4 setup — only about 10% is specifically about FROST itself. If parts of the guide seem unfamiliar, or if you notice mods you hadn’t used before, it likely just means your previous setups didn’t follow a fully optimized and modern approach.
+
+If everyone knew by default how to make proper Fallout 4 setups, this guide would be *way* shorter.
+
+Additionally, a lot of people have blamed FROST for vanilla bugs or bugs caused by broken mod setups.
+The number of false bug reports from players have been dropped dramatically since the creation of the Below Zero guide.
+
+
 ## Credits
 - [The Midnight Ride Guide](https://themidnightride.moddinglinked.com/index.html) which heavily inspired this guide
 - [u/Kanonking](https://www.reddit.com/user/Kanonking) for making the first proper FROST guide back in 2019

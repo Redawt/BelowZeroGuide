@@ -126,4 +126,6 @@ If you use a sorting mod, make sure to let it generate a sorting plugin for your
 - Synthesis.esp
 - SatelliteWorldMap.esp
 - FOLIP - Before Generation.esp
+- People Live In mods by Glitchfinder + their FCF patches
+- We Can Live In by Glitchfinder + their FCF patches
 - (Auto-Generated Item Sorting Mod plugin)
