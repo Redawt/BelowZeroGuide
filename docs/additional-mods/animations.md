@@ -32,14 +32,15 @@ Adds a new Stimpak animation. First person only
 * Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
 
 ---
-## [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522)
+## [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
 :material-tag-plus: `Optional`
 
-Now your character will have their guns downed when not firing it.
+Now your character will have their guns downed when not firing it, after a reasonable amount of time.
 
 ### Installation Instructions
 
-* Download and install [Lowered Weapons](https://www.nexusmods.com/fallout4/mods/522)
+* Download and install [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
+* Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
 
 ---
 ## [Immersive Animation Framework (IAF)](https://www.nexusmods.com/fallout4/mods/50555) + [FROST Patch](https://www.nexusmods.com/fallout4/mods/53702)
