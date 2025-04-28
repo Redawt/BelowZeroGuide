@@ -80,14 +80,14 @@ If you're not strong enough (7), or use power armor, or invest in heavy gunner(4
 
 
 ---
-## [Manual Reload Simple](https://www.nexusmods.com/fallout4/mods/35378?tab=description)
+## [Manual Reload - F4SE](https://www.nexusmods.com/fallout4/mods/76076)
 :material-tag-plus: `Optional`
 
 A very simple way to do manual reloading. No more automatic reloading when you run out of ammo.
 
 ### Installation Instructions
-* Download and install [Manual Reload Simple](https://www.nexusmods.com/fallout4/mods/35378?tab=description)
-* Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
+* Download and install [Manual Reload - F4SE](https://www.nexusmods.com/fallout4/mods/76076)
+* Do not download the NG version of the F4SE plugin!
 
 
 ---
@@ -95,7 +95,7 @@ A very simple way to do manual reloading. No more automatic reloading when you r
 :material-medical-bag: `Patch Required` | 
 :material-tag-plus: `Optional`
 
-Adds over 300 NPC's who traveling the Commonwealth, Far Harbor and Nuka-World.
+Adds over 300 NPCs who travel the Commonwealth, Far Harbor and Nuka-World.
 
 ### Installation Instructions
 * Download and install [NPCs Travel](https://www.nexusmods.com/fallout4/mods/16987) + [FROST NPCs Travel](https://www.nexusmods.com/fallout4/mods/54830)
