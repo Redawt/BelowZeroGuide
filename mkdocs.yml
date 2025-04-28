@@ -73,7 +73,7 @@ nav:
     - Environment: additional-mods/environment.md
     - Gameplay: additional-mods/gameplay.md
     - Sounds & Music: additional-mods/sounds&music.md
-    # - Graphics: additional-mods/graphics.md
+    - Graphics: additional-mods/graphics.md
     # - Character Creation: additional-mods/character-creation.md
     - Animations: additional-mods/animations.md
     - Miscellaneous: additional-mods/miscellaneous.md
