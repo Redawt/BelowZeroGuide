@@ -489,6 +489,7 @@ const fcf_check_plugins = [
             "FCF_Previsibines-WinterRedone.esp",
             "FCF_Previsibines-WinterRedoneELFX.esp",
             "FCF_HotfixELFX.esp",
+            "FCF_HotfixWR.esp",
             "FCF_Previsibines-MMHelipad.esp",
             "FCF_Previsibines-Oberland.esp",
             "FCF_Previsibines-Drawbridges.esp",
