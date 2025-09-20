@@ -15,9 +15,13 @@ Make sure that you copy all the content of your load order into the text field.
 
 ??? info "How to find your loadorder.txt" 
     === "MO2"
-        If you use **MO2**, you can find your **loadorder.txt** here:
+        If you use **MO2**, you can find your **loadorder.txt** by:
 
-        ![MO2 LO location](../assets/images/mo2_load_order_location.png)
+        1. Clicking on the folder icon in MO2
+        2. Selecting "Open profile folder"
+        3. The Windows Explorer will open the folder which contains the **loadorder.txt**
+
+        ![MO2 LO location](../assets/images/mo2_find_loadorder_file.png)
 
     === "Vortex"
         If you use **Vortex**, you can find your **loadorder.txt** here:
@@ -370,7 +374,11 @@ const bad_plugins =  [
             "FROSTmoreDoors.esp",
             "ArgonnFROSTSanityTweakPatch.esp",
             "Frost PipTab.esp",
-            "Z_LevelUp_HealingRemoval.esp"
+            "Z_LevelUp_HealingRemoval.esp",
+            "FROSTHuntingRifleToSVT40.esp",
+            "FROSTCombatRifleToRU556.esp",
+            "FROST_Opal_patch.esp"
+
         ];
 
 const not_recommended_plugins =  [
@@ -476,7 +484,8 @@ const not_recommended_plugins =  [
             "Flashy_CommonwealthFishing.esp",
             "Flashy_CommonwealthFishingFarHarborAddon.esp",
             "AdvancedNeeds2.esp",
-            "Facials.esp"
+            "Facials.esp",
+            "FROST_weather_no_headache.esp"
         ];
 
 const fcf_check_plugins = [
@@ -498,6 +507,13 @@ const fcf_check_plugins = [
             "FCF_Previsibines-Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
             "PLI_USAF_Olivia FROSTified.esp",
+            "PLIDHP_Previs.esp",
+            "WCLINS_Previs.esp",
+            "WCLINPP_Previs.esp",
+            "WCLIRIL_Previs.esp",
+            "WCLINRR_Previs.esp",
+            "WCLIPET18F_Previs.esp",
+            "WCLILGP_Previs.esp",
             "Vivid Waters.esp",
             "Synthesis.esp",
             "SatelliteWorldMap.esp",

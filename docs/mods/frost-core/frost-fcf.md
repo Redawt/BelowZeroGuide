@@ -31,6 +31,7 @@ It improves performance and fixes several bugs.
             * [The Forest DLC](https://www.nexusmods.com/fallout4/mods/46602)
             * [Medford Memorial Helipad](https://www.nexusmods.com/fallout4/mods/55655?tab=files)
             * [JSRS Sound Mod for Fallout 4](https://www.nexusmods.com/fallout4/mods/52931)
+            * [Winter Redone]( ../../additional-mods/environment/)
 
     1. Download and install **[Main File - FROST Cell Fixes (FCF) - Patches :material-tray-arrow-down:](https://www.nexusmods.com/fallout4/mods/59652?tab=files)** with your mod manager
     2. Installing this mod will show an installer:
@@ -40,3 +41,5 @@ It improves performance and fixes several bugs.
 
 !!! note "Step 3: FCF Hotfix"
     Download and install **[Update File - FROST Cell Fixes (FCF) - Hotfix :material-tray-arrow-down:](https://www.nexusmods.com/fallout4/mods/59652?tab=files)** with your mod manager
+
+

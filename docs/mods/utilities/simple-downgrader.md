@@ -11,5 +11,9 @@
     4. Wait for the `Patching successful` message in the console window that just opened
     5. Close the console
 
+    **Note:** You can ignore the "Requirements" of the Fallout 4 Downgrader for now.
+    All the requirement will be installed later in the guide.
+    The requirements do not need to be present for the downgrader to work.
+
 === "GOG"
     The GOG version of Fallout 4 is already downgraded, you don't need to do anything.

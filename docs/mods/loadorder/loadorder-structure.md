@@ -1,9 +1,12 @@
 ## Load Order Structure
 This load order structure applies to the mods featured in this guide, as well as all other mods that you can find online.
 
+You need to sort your load order so that it resembles the order of mods as described in this subsection.
+
+
 #### 1. Bethesda Files
 
-All Bethesda main files. Make sure that you don't have DLCUltraHighResolution.esm here.
+All Bethesda main files: You can not change their order, they always need to be at the top of the plugins section in MO2 and Vortex.
 
 - Fallout4.esm
 - DLCRobot.esm
@@ -16,7 +19,7 @@ All Bethesda main files. Make sure that you don't have DLCUltraHighResolution.es
 
 #### 2. Master files
 
-Put all .esm files and .esm flagged .esp files here 
+Put all **.esm files** and **.esmflagged .esp files** here. 
 
 - PANPC.esm
 - HUDFramework.esm
@@ -27,13 +30,12 @@ Put all .esm files and .esm flagged .esp files here
 #### 3. Frost Unrelated Mods I
 
 
-Put all mods that are unrelated to FROST and don't need a frost patch here.
+Put all mods here that are unrelated to FROST and don't need a patch for FROST.
 Weather should not be placed here though, they need to be loaded later if possible.
 
 * GCM_DLC_Automatron.esl
 * GCM_DLC_Far_Harbor.esl
 * GCM.esp
-* SCM.esp
 * Immersive HUD.esp
 * M8rDisablePipboyEffects.esp (this is an optional plugin from FallUI Inventory)
 * ...
@@ -44,6 +46,7 @@ Weather should not be placed here though, they need to be loaded later if possib
 
 Put all mods here that need a patch for Frost. Load their frost patches at the section marked down below!. Mods that belong here are Lighting Mods, Weapon Mods, Armor Mods, Creature Mods, Mods that edit leveled lists, ...
 
+* SCM.esp
 * UltraInteriorLighting.esp
 * UltraExteriorLighting.esp
 * ...
@@ -94,6 +97,7 @@ Put all mods here that patch a certain mod for FROST.
 #### 8. Weather Mods
 
 Weather mods need to be loaded here.
+This guide doesn't feature weather mods, you can skip step 8. unless you are using a weather mod.
 
 **Notes** 
 

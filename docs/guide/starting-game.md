@@ -44,8 +44,19 @@ You can now open the door, and two nice gentlemen will greet you with a hit to t
 You have to get up from your chair, activate the door, chose your name and SPECIAL stats, and then walk down the stairs. Activate the terminal there to deactivate the gray image overlay, and use the character creation option of the terminal. Change the appearance of your character here. 
 
 After that, configure your MCM settings before you use one of the doors to get to the starting locations.
-You should check out the FROST MCM to configure stuff to your liking, and to set a hotkey for the Action Menu. The Action Menu can be used to place camping equipment from the Campsite mod, and to use crafting kits from FROST, as well as to attract the attention of enemies through the "Make some noise" button. 
+You should check out the FROST MCM to configure stuff to your liking, and to set a hotkey for the Action Menu. 
+The Action Menu can be used to place camping equipment from the Campsite mod, and to use crafting kits from FROST, as well as to attract the attention of enemies through the "Make some noise" button. 
 After you configured everything, you should make a save file, either through the pause menu, or with the console command `save [custom name for your safe file]`.
+
+
+---
+## Enabling and Fixing Quick Saves
+
+!!! warning ""
+    Quick saves can cause save file corruption for some people.
+    This is a vanilla engine bug.
+
+In the MCM menu of the Survival Configuration Menu mod (SCM), you need to set a keyboard button to create a hard save.
 
 ---
 ## Choose a starting location

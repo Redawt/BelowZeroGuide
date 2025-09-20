@@ -22,13 +22,14 @@ Makes weapon shells stay longer.
 
 
 ---
-## [Nina's Proper Pipe Guns Replacer](https://www.nexusmods.com/fallout4/mods/43173?tab=description)
+## [Nina's Proper Pipe Guns Replacer](https://next.nexusmods.com/profile/NinaTheBunny/mods?gameId=1151)
 :material-tag-plus: `Optional`
 
-A full set of remade and reworked models for the Pipe Rifle, Pipe Bolt-Action Rifle & Pipe Revolver.
+Nina made some nice mesh replacers for some weapons, and do not need patches for FROST.
 
 ### Installation Instructions
-* Download and install [Nina's Proper Pipe Guns Replacer](https://www.nexusmods.com/fallout4/mods/43173?tab=description)
+* Download and install [Nina's Actually Handmade Assault Rifle](https://www.nexusmods.com/fallout4/mods/94803)
+* Download and install [Nina's Proper Pipe Guns - Revisited](https://www.nexusmods.com/fallout4/mods/94806)
 
 
 ---

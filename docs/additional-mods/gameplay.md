@@ -64,7 +64,7 @@ F4SE plugin to add permadeath to the game and generate character obituaries upon
 Reworks the Favorites Menu. 
 
 ### Installation Instructions
-* Download and Install [Old Files - FavoritesMenuEx 1.0.7](https://www.nexusmods.com/fallout4/mods/66690?tab=files)
+* Download and Install [Old Files - FavoritesMenuEx-final 1.10.163](https://www.nexusmods.com/fallout4/mods/66690?tab=files&file_id=291797&nmm=1)
 * Make sure to download the right version of this mod!
 
 

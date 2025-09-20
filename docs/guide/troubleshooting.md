@@ -31,6 +31,21 @@ If followed this guide, and noticed an issue (CTDs, FPS drops, game doesn't star
 
 **In any of those cases, we will help you to fix the issue.**
 
+
+---
+## Check for warning messages in MO2
+
+MO2 has several spots where warning triangles can appear.
+
+However, most of the time they indicate that something is wrong that you need to fix.
+
+Here are some of the spots where warning triangles can show up in MO2:
+
+![mo2 profiles menu](../assets/images/mo2_warning_spots.png "MO2 Warning locations")
+
+If warning triangles show up besides a plugin in the plugins section of MO2, you either forgot to install a requirement for the mod, or accidentally installed a patch for a mod that you do not need.
+
+
 ---
 ## Help yourself
 

@@ -10,20 +10,22 @@ This section tells you how to sort your mods correctly.
 After you've installed the mods from the previous sections, you now need to sort your load order.
 The load order is a list that tells the game in which order it should load esp/esm/esl plugins.
 Those plugins contain changes to vanilla game objects (like quests, items) or add new objects.
-Some plugins depend on other plugins, or need to overwrite changes from other plugins (="winning conflicts").
+
+Some plugins depend on other plugins, or need to overwrite elements from other plugins (="winning conflicts").
+Plugins that are further "up" in your load order can get overwritten by other plugins that are "further down" in your load order.
+That's why the base game plugins, like Fallout4.esm, are at the top of your load order.
+
 That is why sorting your load order is important, otherwise features from mods will break, or you will encounter issues like crashes, fps issues and bugs. 
+
 
 This section provides information on how to sort your load order regarding FROST and the mods featured in this guide, but also for mods which are not featured in this guide. We do not recommend to use LOOT or any other automatic load order sorting tool, as they tend to sort mods wrong (especially FROST mods).
 
 !!! info "Mods without plugins"
-    Not all mods have an esm/esp/esl plugin. Certain mods that are part of the guide, like Buffout 4, don't have a plugin.
+    Not all mods have an esm/esp/esl plugin. Certain mods that are part of the guide, like **Buffout 4**, don't have a plugin.
 
 ---
 ## How to sort your mods in your mod manager
-The scope of the guide does not include detailed instructions about how to use your mod manager.
-There are other resources online for that.
-This is only a rough overview.
-If you are already familiar with how to do this, skip this subsection.
+Expand the section below to learn how to sort your load order in MO2 and Vortex.
 
 ??? abstract "Expand me if you need to know more." 
 
@@ -31,7 +33,6 @@ If you are already familiar with how to do this, skip this subsection.
     === "MO2"
 
         ![MO2 Panes](../assets/images/mo2-panes.png)
-        If you want more details, read [this MO2 guide :simple-github:](https://github.com/sower-j/modding-guides/blob/main/images/mo2-panes.png)
 
         <div class="grid cards" markdown>
 
@@ -57,14 +58,22 @@ If you are already familiar with how to do this, skip this subsection.
 
         </div>
 
+        !!! abstract "Drag & Drop Example"
+
+            Here is an example on how you can drag & drop plugins around in MO2:
+
+            ![mo2 profiles menu](../assets/images/mo2_sort_loadorder_loop.gif "mo2 load order sorting gif")
+
+        If you want even more details, read [this MO2 guide :simple-github:](https://github.com/sower-j/modding-guides/blob/main/images/mo2-panes.png).
 
         
     === "Vortex"
-        
-        I am not using Vortex, and I don't recommend using it. 
-        If you followed this guide and decided to use Vortex, and don't know how to sort your load order in it, you should have decided to use MO2 instead (bummer).
 
-        I can not offer you much help. There are videos like [this  video from Gopher :fontawesome-brands-youtube:{ .youtube }](https://www.youtube.com/watch?v=BRo8I32ASSw) that talk about the topic, and the [**Nexusmods Discord :simple-discord:**](https://discord.gg/nexusmods) where you might be able to find additional help and resources.
+        This [video from Nexusmods :fontawesome-brands-youtube:{ .youtube }](https://www.youtube.com/watch?v=ZBE_PcI3qUU) explains how to sort your load order in Vortex. 
+        
+        We recommend to use the method(s) explained in [this part of the video :fontawesome-brands-youtube:{ .youtube }](https://youtu.be/ZBE_PcI3qUU?si=Z1b-D6Mn4HrBs9YR&t=120). Do not use Vortex' automatic mod sorting feature, it will sort some mods featured in this guide completely wrong and break your game.
+
+        As you might notice in the video (and its comment section), sorting your load order with Vortex is a tedious and annoying process. It's one of the reasons why we don't recommend to use Vortex.
 
 ---
 --8<-- "docs/mods/loadorder/loadorder-structure.md"
