@@ -46,6 +46,19 @@ Here are some of the spots where warning triangles can show up in MO2:
 If warning triangles show up besides a plugin in the plugins section of MO2, you either forgot to install a requirement for the mod, or accidentally installed a patch for a mod that you do not need.
 
 
+!!! info "Note about the "Overwrite Directory" warning"
+    You can ignore the “Overwrite directory” warning in most cases.
+
+    Mod Organizer 2 (MO2) isolates each mod in its own folder, keeping the game’s directories clean and making it easy to see which files belong to which mod. 
+    It tricks the game into thinking the mod files are in the game folder, while they actually remain separated.
+
+    Some mods or tools (e.g., F4SE, Creation Kit, Bodyslide, xEdit) generate files or folders at runtime, such as Looksmenu presets, custom mod files or log files.
+    Since MO2 doesn’t know where to store these new files (=which isolated folder), it puts them in the default “Overwrite” folder and shows a warning.
+
+    You can disable this warning in MO2’s settings, or configure MO2 to route those generated files into [their own dedicated folder :fontawesome-brands-youtube:{ .youtube }](https://www.youtube.com/watch?v=Ksp_yPq637s).
+
+
+
 ---
 ## Help yourself
 

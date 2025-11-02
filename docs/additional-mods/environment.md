@@ -196,7 +196,7 @@ People live here, why does it feel abandoned?
 ### Installation Instructions
 
 * Download and install [Main Files - People Live In - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/60711)
-* Download and install [Update files - Previs - FROST Cell Fixes (FCF)](https://www.nexusmods.com/fallout4/mods/60711)
+* Download and install [Main Files - People Live In - Roadside Pines Motel Patch Hub](https://www.nexusmods.com/fallout4/mods/95631?tab=description), and select the Frost Cell Fixes Patch during installation
 * Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
     * The FROST patch needs to be loaded after the other FCF patches at the bottom of your load order!
 

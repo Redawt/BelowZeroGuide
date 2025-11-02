@@ -7,6 +7,11 @@ This is a static GitHub Pages website containing a [guide](https://redawt.github
 
 ## Requirements
 This GitHub project uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+To run the website locally, use 
+
+```bash
+mkdocs serve
+```
 
 If you want to contribute to this website, you need to:
 

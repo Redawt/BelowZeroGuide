@@ -135,14 +135,19 @@ Retextures the crows to look zombie-ish
 
 
 ---
-## [Military Vehicles Retextured](https://www.nexusmods.com/fallout4/mods/43721)
+## [Spiff's Junkyard (Texture Mod Collection)](https://www.nexusmods.com/fallout4/mods/45002)
 :material-tag-plus: `Optional`
 
-Simple mod that adds some new textures to all APCs and Tanks in the game, with a few different color variants for different environmental setups.
+A collection of simple texture mods.
+I don't recommend to install all of them, as some might clash with FROST's snow textures or don't make sense in FROST's setting.
+You might be interested in using:
+
+- Military Vehicles Retextured - OD Green
+- Simple Yellow Forklifts
 
 ### Installation Instructions
-* Download and install [Military Vehicles Retextured](https://www.nexusmods.com/fallout4/mods/43721)
-* Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
+* Download and install [one or several mods from Spiff's Junkyard](https://www.nexusmods.com/fallout4/mods/45002)
+* Sort their plugins according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
 
 
 ---

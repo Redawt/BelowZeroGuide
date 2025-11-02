@@ -31,9 +31,10 @@ Generally the following types of mods are *usually* compatible with FROST withou
 * UI mods
 * Tree mods (mods that add more trees)
 * Mods that only use F4SE .dll plugins
+* Mods from [SKK](https://next.nexusmods.com/profile/SKKmods/mods?gameId=1151)
 
 ### Which mods are incompatible with FROST and the Below Zero setup?
-*Usually* the following type of mods are completely incompatible with FROST
+*Usually* the following type of mods are incompatible with FROST_
 
 * Most mods that are **big Overhauls**, like **Horizon, Raider Overhaul, Damn Apocalypse, MAIM, Sim Settlements (1 and 2), Better Locational Damage, AWKCR**...
 * Mods edit creatures that are not present in FROST (Supermutants, Insects, Synths, Mirelurks, Supermutant Hounds)

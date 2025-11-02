@@ -540,9 +540,13 @@ const fcf_check_plugins = [
       p.appendChild(heading)
       p.appendChild(description)
       output_list.forEach(plugin => {
-              let t = document.createElement("li")
-              t.innerHTML = plugin;
-              p.appendChild(t)})
+          if (plugin != "" && plugin != null){
+            let t = document.createElement("li")
+            t.innerHTML = plugin;
+            p.appendChild(t)
+          }
+        }
+      )
       document.getElementById("content").appendChild(p);
       counter_checker++
   }
