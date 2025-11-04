@@ -81,7 +81,8 @@ nav:
     - FAQ: faq/index.md
     - General: faq/faq-general.md
     - Compatbility: faq/faq-compatibility.md
-
+extra_javascript:
+  - javascripts/open-in-new-tab.js
 plugins:
   - search
   # https://github.com/mondeja/mkdocs-include-markdown-plugin
