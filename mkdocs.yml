@@ -87,7 +87,7 @@ plugins:
   # https://github.com/mondeja/mkdocs-include-markdown-plugin
   # - include-markdown
   - tags
-  - open-in-new-tab
+  # - open-in-new-tab
 
 markdown_extensions:
   - admonition
