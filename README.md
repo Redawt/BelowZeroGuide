@@ -20,7 +20,7 @@ If you want to contribute to this website, you need to:
 3. Install Visual Studio Code
 4. Install [mkdocs-material](https://squidfunk.github.io/mkdocs-material/getting-started/)
 5. Clone this repository with Git
-6. Open it the `.vscode/BelowZero.code-workspace` file with VS Code
+6. Use `File > Open Workspace from File` in VS Code and open `.vscode/BelowZero.code-workspace`
 7. Edit or add markdown files in the `docs` folder
 8. Make a pull request
 
@@ -29,7 +29,7 @@ Please get familiar with mkdocs-material, the structure of the folders containin
 
 ## Project Structure
 This project uses markdown for creating the web pages.
-You can find all markdown files and image assets in the `docs` folder
+You can find all markdown files and image assets in the `docs` folder.
 
 ```
 ├── docs
