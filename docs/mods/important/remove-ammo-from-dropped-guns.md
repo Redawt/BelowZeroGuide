@@ -5,4 +5,4 @@
 Removes ammo from guns on corpses and adds it to the corpse's inventory.
 
 ### Installation Instructions
-* Download and install **[Main Files - AmmoRemover v1.0.5 :material-tray-arrow-down:](https://www.nexusmods.com/fallout4/mods/64426?tab=files)** with your mod manager
+* Download and install **[Old Files - AmmoRemover v1.0.5 (F4SE 0.6.23) :material-tray-arrow-down:](https://www.nexusmods.com/fallout4/mods/64426?tab=files)** with your mod manager
