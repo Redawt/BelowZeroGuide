@@ -159,10 +159,14 @@ Retextures the Commonwealth, Far Harbor and Nuka World landscapes for Winter. Fe
 ### Installation Instructions
 * Download and install [Main Files - Winter Redone](https://www.nexusmods.com/fallout4/mods/41449)
 * Download and install [Optional Files - Winter Redone - FROST](https://www.nexusmods.com/fallout4/mods/41449)
-    * ==IMPORTANT! Remove the FROST.esp that comes with the FROST patch; it is bugged!==
+* ==IMPORTANT! Remove the FROST.esp that comes with the FROST patch; it is bugged!==
+    * Right click on "Winter Redone - FROST" in the modlist view (left pane) of MO2
+    * Select "Open in Explorer"
+    * Delete the "FROST.esp"
 * Install [Main Files FROST Cell Fixes (FCF) Patches](https://www.nexusmods.com/fallout4/mods/59652?tab=files) and select the Winter Redone patch (and other required patches) during installation
 * Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
-    
+
+
 ??? example "Example Load Order for Winter Redone"
 
     ```
@@ -184,6 +188,11 @@ Retextures the Commonwealth, Far Harbor and Nuka World landscapes for Winter. Fe
     [FCF patches]
     ```
 
+!!! warning "Winter Redone is not for modding beginners!"
+
+    Installign Winter Redone is not recommended if you are relatively inexperienced with modding.
+
+    It's easy to mess something up if you don#t carefully follow the instalaltion instructions.
 
 ---
 ## [People Live In - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/60711)

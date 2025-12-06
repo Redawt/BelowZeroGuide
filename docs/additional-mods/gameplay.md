@@ -104,6 +104,18 @@ Adds over 300 NPCs who travel the Commonwealth, Far Harbor and Nuka-World.
 
 
 ---
+## [Before The War - Player Backgrounds for Fallout FROST](https://www.nexusmods.com/fallout4/mods/98464)
+:material-tag-plus: `Optional`
+
+Choose your background and start with two perks at level 1. For Fallout Frost only.
+
+### Installation Instructions
+* Download and install [Before The War - Player Backgrounds for Fallout FROST](https://www.nexusmods.com/fallout4/mods/98464)
+
+
+
+
+---
 ## [Insult to Injury (ITI)](](https://discord.gg/jMUnXDV))
 :material-medical-bag: `Patch Required` | 
 :material-tag-plus: `Optional` | 

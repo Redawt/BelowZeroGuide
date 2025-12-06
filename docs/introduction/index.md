@@ -36,6 +36,15 @@ Additionally, a lot of people have blamed FROST for vanilla bugs or bugs caused 
 The number of false bug reports from players have been dropped dramatically since the creation of the Below Zero guide.
 
 
+!!! warning "A note about you and AI Chatbots"
+
+    **I do not recommend using an AI Chatbot for modding related questions and help.**
+
+    I especially do not recommend to as AI Chatbots questions about this guide or to summarize this guide in some form, because they tend to fail pretty badly at those tasks. This is partially caused by AI chatbots associating "Below Zero" with the game "Subnautica: Below Zero", so they will "forget" or not understand that this guide is for Fallout 4.
+
+    If you need help with the guide, join the [**FROST Discord :simple-discord:**](https://discord.com/invite/BaKsm7Fn4A) and ask your question there.
+
+
 ## Credits
 - [The Midnight Ride Guide](https://themidnightride.moddinglinked.com/index.html) which heavily inspired this guide
 - [u/Kanonking](https://www.reddit.com/user/Kanonking) for making the first proper FROST guide back in 2019

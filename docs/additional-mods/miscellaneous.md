@@ -62,13 +62,22 @@ A compendium of patches for different mods.
 
 
 
-
+---
 ## [FROST - See region names on your save files Patch](https://www.nexusmods.com/fallout4/mods/74208?tab=description)
 :material-tag-plus: `Optional` | 
 :material-medical-bag: `Patch Required` 
 
 A FROST patch for See region names on your save files.
-
+c
 ### Installation Instructions
 * Download and install [FROST - See region names on your save files Patch](https://www.nexusmods.com/fallout4/mods/74208?tab=description) and its requirements
 * Load it after your FCF esp files in your load order
+
+---
+## [Save With Your Diary](https://www.nexusmods.com/fallout4/mods/98251?tab=description)
+:material-tag-plus: `Optional` | 
+
+Save with your diary. Needs pens or pencils.
+
+### Installation Instructions
+* Download and install [Save With Your Diary - For Survival And Frost Players](https://www.nexusmods.com/fallout4/mods/98251?tab=description)

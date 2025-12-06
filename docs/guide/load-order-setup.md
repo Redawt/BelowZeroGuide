@@ -46,6 +46,8 @@ Expand the section below to learn how to sort your load order in MO2 and Vortex.
 
             To sort them, you can simply drag & drop the mods and separators around.
 
+            Make sure that the list is displayed by "priority" (it's the default) in the UI. Otherwise you might not be able to move the mods around.
+
         -   :material-dock-left:{ .lg .middle } __Right Pane__
 
             ---
@@ -55,6 +57,8 @@ Expand the section below to learn how to sort your load order in MO2 and Vortex.
             They reflect the content of your `loadorder.txt` and `plugins.txt` files, which tell the game how to load your plugins.
 
             To sort them, you can simply drag&drop the plugins around in the list.
+
+            Make sure that the list is displayed by "priority" (it's the default) in the UI! Otherwise you might not be able to move the mods around.
 
         </div>
 

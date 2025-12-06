@@ -20,6 +20,22 @@ Removes interior fog from all cells, because it's stupid.
 ### Installation Instructions
 * Download and install [No Interior Fog](https://www.nexusmods.com/fallout4/mods/79999)
 
+
+---
+## [Frame Generation](https://www.nexusmods.com/fallout4/mods/98208)
+:material-tag-plus: `Optional`
+
+The ultimate performance mod. F4SE plugin which adds Frame Generation to significantly boost FPS and stabilise frame pacing. Supports all game versions and ENB.
+
+### Installation Instructions
+* Download and install [Update files - Frame Generation](https://www.nexusmods.com/fallout4/mods/98208?tab=files)
+ * Install the version mentioning Pre-NG (version 1.10.163)
+
+!!! warning "Use Frame Generation at your own risk!"
+    Frame Generation is currently a WIP mod and still has the occasional bug.
+    It also gets updated very often, so make sure to track the mod on Nexus and update it as soon as a new version comes out. 
+
+
 ---
 ## [Remove Ironsight Blur](https://www.nexusmods.com/fallout4/mods/2304)
 :material-tag-plus: `Optional`
@@ -54,6 +70,7 @@ ENB preset designed to work with any weather, with advanced post-processing.
 :material-tag-plus: `Optional`
 
 ### Installation Instructions
+
 
 ---
 ## [MariENB 3 for Vanilla and FROST](https://www.nexusmods.com/fallout4/mods/13918)
