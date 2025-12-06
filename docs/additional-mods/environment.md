@@ -190,9 +190,9 @@ Retextures the Commonwealth, Far Harbor and Nuka World landscapes for Winter. Fe
 
 !!! warning "Winter Redone is not for modding beginners!"
 
-    Installign Winter Redone is not recommended if you are relatively inexperienced with modding.
+    Installing Winter Redone is not recommended if you are relatively inexperienced with modding.
 
-    It's easy to mess something up if you don#t carefully follow the instalaltion instructions.
+    It's easy to mess something up if you do not carefully follow the installation instructions.
 
 ---
 ## [People Live In - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/60711)
