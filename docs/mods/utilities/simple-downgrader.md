@@ -1,19 +1,6 @@
 ## Downgrading the game
 
 === "Steam"
-
-    !!! warning
-
-        Currently the Fallout 4 Simple Downgrader does not work as it has not been properly updated for the newest version of the Fallout 4 Anniversary Edition.
-
-        You need to downgrade the game via the **Steam Console** or via the **Delta Patcher**.
-
-        I currently can not provide instructions for downgrading via the **Delta Patcher** method or the **Steam Console**.
-
-        Please look up yourself how to do that, or wait until the Fallout 4 Simple Downgrader gets updated.
-
-        GOG users are not affected by this issue.
-
     We need to revert the game code to ==version 1.10.163== for wider modding support.
 
     ### Installation Instructions
