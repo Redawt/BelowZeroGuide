@@ -40,9 +40,9 @@ extra:
     - icon: simple/patreon
       link: https://www.patreon.com/redawt
       name: Redawt's Patreon
-    - icon: simple/nexusmods
-      link: https://www.nexusmods.com/fallout4/mods/18898
-      name: FROST Nexuspage
+    # - icon: simple/nexusmods
+    #  link: https://www.nexusmods.com/fallout4/mods/18898
+    #  name: FROST Nexuspage
     - icon: simple/reddit
       link: https://www.reddit.com/r/fodust/
       name: FROST Subreddit
