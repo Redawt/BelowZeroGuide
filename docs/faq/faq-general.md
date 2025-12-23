@@ -58,3 +58,4 @@ This among some other past bad decisions from Nexusmods turned away many mod aut
 ## Is it safe to validate game files?
 
 Verifying game files will revert the executable downgrade. You can solve this by re-running the downgrader.
+
