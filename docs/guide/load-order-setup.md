@@ -89,8 +89,10 @@ This load order contains most mods from this guide.
 Your load order should look similar.
 Make sure to follow the sorting rules from above, and to use the Automatic Load Order checker from below.
 
-??? abstract "Expand me if you want to see the example load order" 
+
+???+ abstract "Example Load Order"
     --8<-- "docs/mods/loadorder/loadorder-example.md"
+     
 
 ---
 --8<-- "docs/mods/loadorder/loadorder-checker.md"

@@ -83,6 +83,7 @@ nav:
     - Compatbility: faq/faq-compatibility.md
 extra_javascript:
   - javascripts/open-in-new-tab.js
+  # - javascripts/loadorder-checker.js
 plugins:
   - search
   # https://github.com/mondeja/mkdocs-include-markdown-plugin

@@ -207,6 +207,7 @@ When the guide says to install a mod, it will be formatted as follows:
 
 ==Main File(s) - FROST (BA2 Version) 0.55==
 
+
 This is referring to the mod's ==files category== on Nexus, the ==file name==, and the ==file version==. Sometimes I will leave the file version out, in that case just download the newest version.
 
 ![Image of FROST Files Section](../assets/images/download_example_new.png "Image of FROST Files Section")
@@ -238,8 +239,9 @@ The guide will always explain how to install such tools.
 
 When ==installing a mod==, MO2 might prompt you with multiple choices:
 
-1. ==Rename== appears when you are trying to install a file with the same name as an existing one. If you are installing, for example, a secondary file necessary for the mod to work, then **rename** it accordingly with the name drop-down list or by typing the name manually.
+1. ==Rename== appears when you are trying to install a file with the same name as an existing one. If you are installing, for example, a secondary file necessary for the mod to work, then **rename** it accordingly with the name drop-down list or by typing the name manually. ==Always use rename for this guide!==
 2. If you are updating from an old version of a mod, you should select ==Replace==, this will automatically delete all the files from the old version of the mod and replace them with the ones from the new version.
 3. ==Merge== should only be used when you know what you are doing. You won't need to use the **Merge** option at all when following this guide.
 
+!!! Tip "Always use **Rename** for this guide! The other two options are not needed."
 

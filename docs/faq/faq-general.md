@@ -4,6 +4,12 @@
 
 You can get help over at the [**FROST Discord :simple-discord:**](https://discord.com/invite/BaKsm7Fn4A).
 
+## How much disk space is needed?
+
+You need around 15 GB of disk space for the MO2 instance, and the downloaded and installed mods from this guide (the mods from the additional mods section are not included in this number!).
+Additionally, you need the disk space for Fallout 4, which is around 33-36 GB (depending on if you also have the Creation Kit installed).
+So you need around 55 GB of free disk space, that way you have a additional space left for other mods.
+
 ## My game crashes, has FPS issues, objects flicker/disappear, ...
 
 Please read the [Troubleshooting Section](../../guide/troubleshooting) and the [compatibility FAQ section](../faq-compatibility).
