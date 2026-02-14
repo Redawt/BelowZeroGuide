@@ -183,7 +183,7 @@ Patches  [Consistent and Realistic Weapons Weight Overhaul](https://www.nexusmod
 ## Why do weapon mods need a patch for FROST?
  Using them without a patch for FROST can cause several problems like:
 
-* **CTDs** (caused by template issues or mesh problems)
+* **CTDs** (caused by form templating/reference issues)
 * **Weapons not spawning** on NPCs or elsewhere at all
 * NPCs only running around with the new weapon but not with any other weapon
   * This problem gets worse with higher player levels

@@ -2,7 +2,7 @@
 
 <small>
 :material-information-box:
-Utility mods which ensure game stability and maximum modding support.
+Several important mods for increased immersion and additional configuration of the game.
 </small>
 
 ---

@@ -34,11 +34,17 @@ Utility mods which ensure game stability and maximum modding support.
 --8<-- "docs/mods/utilities/better-console.md"
 
 ---
+## How to properly start the game
+    
+Due to the way Mod Organizer 2 works, running programs through it is a requirement in order to load mods. 
+This is done in the top-right corner of the manager, where the program to run is chosen. 
 
-!!! info "Reminder"
-    You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear. If that is not the case, you can manually add or select it in MO2. 
+Here, select ==F4SE==.
 
-    ![F4SE in MO2](../assets/images/select_f4se.png "F4SE in MO2")
+For the sake of convenience you may also create a shortcut (right below the Run button) so that you won't have to manually open MO2 each time before playing. 
+
+
+![F4SE in MO2](../assets/images/select_f4se.png "F4SE in MO2")
 
 ---
 <small>

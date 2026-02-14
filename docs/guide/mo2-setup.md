@@ -201,14 +201,29 @@ These settings tweak shadows to drastically improve performance without much vis
 ---
 ## Mod Installation Instructions
 
+<style>
+/* Orange text, bold */
+.orange-bold {
+    color: #ff6600;      /* bright orange */
+    font-weight: bold;
+}
+
+/* Accessible high‑contrast magenta, bold */
+.purple-bold {
+    color: #c71585;      /* medium‑violet‑red / magenta */
+    font-weight: bold;
+}
+</style>
+
 ### How to use Nexus to download mods
 
 When the guide says to install a mod, it will be formatted as follows: 
 
-==Main File(s) - FROST (BA2 Version) 0.55==
+==Main File(s)== **-** <span class="orange-bold">FROST (BA2 Version)</span> <span class="purple-bold">0.55</span>
 
 
-This is referring to the mod's ==files category== on Nexus, the ==file name==, and the ==file version==. Sometimes I will leave the file version out, in that case just download the newest version.
+
+This is referring to the mod's ==files category== on Nexus, the <span class="orange-bold">file name</span>, and the <span class="purple-bold">file version</span>. Sometimes the file version will not be mentioned, in that case just download the newest version.
 
 ![Image of FROST Files Section](../assets/images/download_example_new.png "Image of FROST Files Section")
 
@@ -230,7 +245,7 @@ If that is the case, do the following:
 1. Click the **Manual Download** button on Nexus (or whatever the download button is for the respective site)
 2. Once the download has finished, click the ![mo2 archive button](../assets/images/mo2_archive.webp) button at the top of MO2
 3. From the new window, navigate to where the file was downloaded to and double-click it
-4. Finish the install normally
+4. Finish the installation normally
 
 Sometimes non-mods are hosted on Nexus, like special tools (F4SE, Bethini Pie, Simple Fallout 4 Downgrader, ...).
 In that case you also need to use the manual download button, but can not install the tool directly like described above.

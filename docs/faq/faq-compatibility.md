@@ -92,3 +92,9 @@ Piracy is not supported in any way, shape, or form. Any proof that you're using 
 We cannot provide support for Linux. As Linux enthusiasts, we would love to provide Linux support, but this is simple out-of-scope for us due to time and resource limitations. 
 FROST and the other mods featured in this guide work with Linux once you set up your mod manager under Linux properly, and after installing Wine/Proton etc.
 
+## Are there are known issues between the Below Zero setup and other mod list setups (Fallout Anomaly, Midnight Ride, ...)?
+
+There can occasionally be issues if you try to use multiple larger mod list setups with each other on the same Fallout 4 installation.
+
+I recommend moving the Below Zero setup to a second Fallout 4 installation provided by GOG, and use a Steam Installation for other big mod list setups (like The Midnight Ride or Fallout Anomaly).
+

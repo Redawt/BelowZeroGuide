@@ -155,29 +155,34 @@ You should uninstall it.
 --- 
 ## Removing Creation Content (CC)
 
-!!! info "Info for Steam Users"
-    Option 2 should only be used if Option 1 does not work for you, 
-    i.e. Mo2 doesn't allow you to enable/disable the respective plugins properly.
+* This step removes CC content that has not been patched for FROST
+* These CC files have been added by the Next-Gen update, and while they work on the downgraded version of Fallout 4, they are not yet patched for FROST and should be removed
 
-=== "Steam (Option 1, Recommended)"
-    #### Description
-    * This step disables CC content that has not been patched for FROST and will cause issues
-    * These CC files have been added by the Next-Gen update, and while they work on the downgraded version of Fallout 4, they are not yet patched for FROST and should be disabled
+    === "Steam (Option 1, Recommended)"
+        #### Description
+        You can simply delete/uninstall the unpatched CC files.
 
-    #### Instructions
-    * In MO2 click the ==Settings Button== 
-    * In the settings, click on the ==Workarounds== tab 
-    * Untick ==Force-enable game files==
-    * Go to the ==plugins== section of MO2 (on the right side of the MO2 UI)
-    * Make sure to **enable** the base-game .esm files if they are not active:
-        * `Fallout4.esm`
-        * `DLCRobot.esm`
-        * `DLCworkshop01.esm`
-        * `DLCCoast.esm`
-        * `DLCworkshop02.esm`
-        * `DLCworkshop03.esm`
-        * `DLCNukaWorld.esm`
-    * Make sure that the following plugins are **disabled** in the plugins section:
+        #### Uninstallation instructions
+        * Open the  **Data** folder (`...\steamapps\common\Fallout 4\Data`) in the Windows Explorer
+        * Delete the following files from it:
+            * `ccBGSFO4044-HellfirePowerArmor.esl`
+            * `ccBGSFO4115-X02.esl`
+            * `ccBGSFO4116-HeavyFlamer.esl`
+            * `ccBGSFO4110-WS_Enclave.esl`
+            * `ccBGSFO4096-AS_Enclave.esl`
+            * `ccFSVFO4007-Halloween.esl`
+            * `ccBGSFO4046-TesCan.esl`
+            * `ccSBJFO4003-Grenade.esl`
+            * `ccOTMFO4001-Remnants.esl`
+
+    === "Steam (Option 2)"
+        !!! danger "This is only for experienced mod users!"
+            And you obviously need to do this after following the next section, after you installed MO2!
+
+        Instead of deleting the CC files, you can create a new empty mod in your MO2 FROST profile, and move the CC .esl files into that new mod folder.
+        Make sure to disable this new mod for your FROST profile, so that the CC .esl mods do not get loaded.
+        
+
         * `ccBGSFO4044-HellfirePowerArmor.esl`
         * `ccBGSFO4115-X02.esl`
         * `ccBGSFO4116-HeavyFlamer.esl`
@@ -188,26 +193,8 @@ You should uninstall it.
         * `ccSBJFO4003-Grenade.esl`
         * `ccOTMFO4001-Remnants.esl`
 
-=== "Steam (Option 2)"
-    #### Description
-    * This step removes CC content that has not been patched for FROST
-    * These CC files have been added by the Next-Gen update, and while they work on the downgraded version of Fallout 4, they are not yet patched for FROST and should be removed
-
-    #### Uninstallation instructions
-    * Open the  **Data** folder (`Steam\steamapps\common\Fallout 4\Data`) in the Windows Explorer
-    * Delete the following files from it:
-        * `ccBGSFO4044-HellfirePowerArmor.esl`
-        * `ccBGSFO4115-X02.esl`
-        * `ccBGSFO4116-HeavyFlamer.esl`
-        * `ccBGSFO4110-WS_Enclave.esl`
-        * `ccBGSFO4096-AS_Enclave.esl`
-        * `ccFSVFO4007-Halloween.esl`
-        * `ccBGSFO4046-TesCan.esl`
-        * `ccSBJFO4003-Grenade.esl`
-        * `ccOTMFO4001-Remnants.esl`
-
-=== "GOG"
-    GOG users can skip this step.
+    === "GOG"
+        GOG users can skip this step. The GOG version of Fallout 4 does not have CC mods included.
 
 ---
 <small>

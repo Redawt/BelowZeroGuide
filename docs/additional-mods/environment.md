@@ -233,16 +233,7 @@ People live here, why does it feel abandoned?
 
 What an interesting location. I think I'd like to build here. And now you can too.
 
-### Installation Instructions---
-## []()
-
-:material-tag-plus: `Optional`
-
-
 ### Installation Instructions
-* Download and install 
-* Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
-
 
 * Download and install [Main Files - We Can Live In - Rock Island Lighthouse](https://www.nexusmods.com/fallout4/mods/63892)
 * Download and install [Update files - Previs - FROST Cell Fixes (FCF)](https://www.nexusmods.com/fallout4/mods/63892)
@@ -260,7 +251,7 @@ What an interesting location. I think I'd like to build here. And now you can to
 ### Installation Instructions
 
 * Download and install [Main Files - We Can Live In - Natick Substation](https://www.nexusmods.com/fallout4/mods/64755)
-* Download and install [Update files - Previs - FROST Cell Fixes (FCF)](https://www.nexusmods.com/fallout4/mods/64755)
+* Download and install [Main Files - We Can Live In - Natick Substation Patch Hub](https://www.nexusmods.com/fallout4/mods/99701?tab=files)
 * Sort the plugin according to the [Load Order Sorting rules for FROST](../../guide/load-order-setup#load-order-structure)
     * The FROST patch needs to be loaded after the other FCF patches at the bottom of your load order!
 
