@@ -8,7 +8,7 @@ This section tells you what you need for this guide.
 
 ---
 ## Accounts
-- A [**Nexusmods :simple-nexusmods:**](https://users.nexusmods.com/register) account
+- A [**Nexusmods**](https://users.nexusmods.com/register) account
 - **Optional:** A [**Discord :simple-discord:**](https://discord.com/) account
     - You need Discord if you want to download **PANPC**, the best AI mod for Fallout 4
     - All mods from Discord will be optional in this guide
@@ -23,10 +23,8 @@ This section tells you what you need for this guide.
 - An archiving tool (I recommend [7-Zip](https://www.7-zip.org/))
 - The latest VC++ Redistributables:
 
-    - [VC++ AIO](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-        * Extract the archive and run the included `install_all.bat` as an administrator.
-    - [2015-2022 X64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-    - [2015-2022 X86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+    - Download [VC++ AIO](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) from TechPowerUp
+    - Extract the archive and run the included `install_all.bat` as an administrator.
     - Restart your PC
 
 - A text editor (I recommend [Notepad++](https://notepad-plus-plus.org/), but the default Windows notepad will work)

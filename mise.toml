@@ -1,0 +1,19 @@
+[tools]
+python = '3.13.10'
+uv = 'latest'
+
+[env]
+_.python.venv = { path = ".venv", create = true }
+
+[tasks.init]
+description = 'Setup mise, python and uv.'
+run = [
+    'mise install',
+    'uv venv',
+    'uv sync'
+]
+[tasks.serve]
+description = 'Start mkdocs server locally'
+run = [
+    'mkdocs serve'
+]

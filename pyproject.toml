@@ -1,0 +1,15 @@
+[project]
+name = "below-zero-guide"
+version = "1.0.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mkdocs-material"
+]
+
+# https://docs.basedpyright.com/dev/configuration/config-files/
+[tool.pyright]
+pythonPlatform = "Linux"
+reportMissingModuleSource   = "error"
+reportUnusedImport = true

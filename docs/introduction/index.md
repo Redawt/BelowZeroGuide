@@ -17,7 +17,7 @@ The guide is highly accessible for everyone, no matter your modding experience. 
     * We walk you through this process, it is very easy
 * I recommend reading this guide once before following its instructions
 * You can have a ==FROST== and a ==non-FROST== Fallout 4 setup at the same time
-    * Read the [FAQ](faq) for more information about that
+    * Read the [FAQ](../faq/index.md)information about that
 * The **GOG** and **Vortex** instructions in this guide are WIP and experimental
 * Make sure to check out the [FAQ](../faq/index.md) page and the [**FROST Discord :simple-discord:**](https://discord.com/invite/BaKsm7Fn4A)
 

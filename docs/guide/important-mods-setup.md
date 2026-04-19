@@ -33,6 +33,9 @@ Several important mods for increased immersion and additional configuration of t
 --8<--  "docs/mods/important/campsite.md"
 
 ---
+--8<--  "docs/mods/important/place-everywhere.md"
+
+---
 --8<--  "docs/mods/important/panpc.md"
 
 ---
