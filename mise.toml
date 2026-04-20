@@ -4,6 +4,7 @@ uv = 'latest'
 
 [env]
 _.python.venv = { path = ".venv", create = true }
+NO_MKDOCS_2_WARNING=1
 
 [tasks.init]
 description = 'Setup mise, python and uv.'
