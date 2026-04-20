@@ -1,0 +1,15 @@
+[project]
+name = "below-zero-guide"
+version = "1.0.0"
+description = "A website for modding Fallout 4 and FROST."
+readme = "README.md"
+requires-python = ">=3.13.10"
+dependencies = [
+    "mkdocs-material"
+]
+
+# https://docs.basedpyright.com/dev/configuration/config-files/
+[tool.pyright]
+pythonPlatform = "Linux"
+reportMissingModuleSource   = "error"
+reportUnusedImport = true

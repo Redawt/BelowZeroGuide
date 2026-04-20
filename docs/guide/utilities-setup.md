@@ -22,7 +22,7 @@ Utility mods which ensure game stability and maximum modding support.
 --8<-- "docs/mods/utilities/address-library.md"
 
 ---
---8<-- "docs/mods/utilities/buffout4.md"
+--8<-- "docs/mods/utilities/addictol.md"
 
 ---
 --8<-- "docs/mods/utilities/high-fps-physics-fix.md"

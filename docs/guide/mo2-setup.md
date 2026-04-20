@@ -1,10 +1,10 @@
-# Installing Mod Organizer 2 (MO2)
+# Setting up a mod manager
 <small>
 :material-information-box:
-This section tells you how to properly install and setup Mod Organizer 2 (MO2).
+This section tells you how to properly install and setup a mod manager (Mod Organizer 2).
 </small>
 
-!!! danger "Read this first!"
+!!! danger "Read this first! (Yes this applies to Vortex Users too)"
 
     In this step, we will install and configure Mod Organizer 2, the best mod manager for any Bethesda game.
     You can alternatively use Vortex, but this guide does not provide details and information on how to use Vortex.

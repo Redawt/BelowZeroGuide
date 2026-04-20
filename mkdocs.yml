@@ -81,6 +81,9 @@ nav:
     - FAQ: faq/index.md
     - General: faq/faq-general.md
     - Compatbility: faq/faq-compatibility.md
+  - Build Planner: 
+    - https://simonwdev.github.io/simonwdev/fo4/frost-planner/
+
 extra_javascript:
   - javascripts/open-in-new-tab.js
   # - javascripts/loadorder-checker.js

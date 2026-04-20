@@ -21,7 +21,7 @@ That is why sorting your load order is important, otherwise features from mods w
 This section provides information on how to sort your load order regarding FROST and the mods featured in this guide, but also for mods which are not featured in this guide. We do not recommend to use LOOT or any other automatic load order sorting tool, as they tend to sort mods wrong (especially FROST mods).
 
 !!! info "Mods without plugins"
-    Not all mods have an esm/esp/esl plugin. Certain mods that are part of the guide, like **Buffout 4**, don't have a plugin.
+    Not all mods have an esm/esp/esl plugin. Certain mods that are part of the guide, like **Addictol**, don't have a plugin.
 
 ---
 ## How to sort your mods in your mod manager
@@ -40,9 +40,9 @@ Expand the section below to learn how to sort your load order in MO2 and Vortex.
 
             ---
 
-            The left pane contains the mods and mod separators you've installed.
+            The left pane contains the mods and mod separators you've installed, the so called "mod list".
 
-            Sort the separators and the mods inside them in the same order as they have been featured in this guide.
+            Sort the separators and the mods inside them in the same order as they have been featured in this guide / the same order as your load order.
 
             To sort them, you can simply drag & drop the mods and separators around.
 
@@ -93,6 +93,13 @@ Make sure to follow the sorting rules from above, and to use the Automatic Load 
 ???+ abstract "Example Load Order"
     --8<-- "docs/mods/loadorder/loadorder-example.md"
      
+## Example Mod List Order (MO2 users only)
+
+This mod list contains most mods from this guide.
+Remember: The modlist is on the left panel of MO2, Load Order ("Plugins") is on the right pane of MO2.
+
+???+ abstract "Example Mod List"
+    --8<-- "docs/mods/loadorder/modlist-example.md"
 
 ---
 --8<-- "docs/mods/loadorder/loadorder-checker.md"

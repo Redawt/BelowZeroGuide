@@ -66,3 +66,9 @@ At each starting location you will find a duffle bag with a Mine Detector, some 
 
 !!! info ""
     If you chose the Highway start, make sure to open your inventory and to unequip the blindfold.
+
+---
+## Planning your build
+
+Some people prefer planning their perk builds in advance.
+This website might help you with that: [FROST Perk Planner](https://simonwdev.github.io/simonwdev/fo4/frost-planner/)

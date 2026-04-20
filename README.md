@@ -5,7 +5,21 @@
 
 This is a static GitHub Pages website containing a [guide](https://redawt.github.io/BelowZeroGuide) for setting up **Fallout 4** and the [FROST Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898). The project is a reimplementation of [my previous project (which was active from 2022-2025)](https://github.com/Redawt/f4-frost-guide).
 
-## Requirements
+## Requirements & Setup
+
+### With mise
+
+First, install **mise** (*mise-en-place*): https://mise.jdx.dev/installing-mise.html
+
+```bash
+# Install requirements
+mise install
+# 
+mise serve
+```
+
+### Manually
+
 This GitHub project uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 To run the website locally, use 
 
