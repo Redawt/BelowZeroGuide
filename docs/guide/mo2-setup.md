@@ -94,7 +94,11 @@ You may get a pop-up called **INI file is read-only** when attempting to make/se
 
 ---
 ## Game Settings
-In this step, we will download and run Bethini Pie, which will allow choosing optimized presets and more specific options all through an easy to use interface. If you have trouble following these instructions, this [**tutorial video :fontawesome-brands-youtube:**](https://www.youtube.com/watch?v=vNv2_x0fVhA) might help you out.
+In this step, we will download and run Bethini Pie, which will allow choosing optimized presets and more specific options all through an easy to use interface. 
+
+!!! tip ""
+    If you have trouble following these instructions, this [**tutorial video :fontawesome-brands-youtube:**](https://www.youtube.com/watch?v=vNv2_x0fVhA) might help you out to understand this better. Keep in mind that the video does not cover everything, so please follow the instructions below as well.
+
 
 === "MO2"
     1. Download [Bethini Pie](https://www.nexusmods.com/site/mods/631).
@@ -176,23 +180,6 @@ These settings tweak shadows to drastically improve performance without much vis
 !!! info "Note"
     You can also add ``bEnableWetnessMaterials=0`` (or change it if it already exists) in your **Fallout4Prefs.ini** in MO2. This will deactivate the wetness effect from objects when it's raining. This causes snow to not be "wet" anymore. Only do this if you really want it or are bothered that snow sometimes has a slight wetness/reflection effect when it's raining.
 -->
-
----
-## Enabling steamloader
-
-=== "Steam"
-
-    Steam users don't need to follow this step, only GOG users.
-
-=== "GOG"
-
-    In MO2 you need to enable add a flag to F4SE so that MO2 can properly start Fallout 4.
-    Vortex users do not need to do this step.
-
-    1. Open the **drop-down menu** for the executables in MO2, and select **Edit**
-    ![MO2 Exectuable Image](../assets/images/MO2-Edit-Exe.png)
-    2. Add `-forcesteamloader` in the **Arguments** section of the **F4SE** executable
-    ![MO2 -forcesteamloader](../assets/images/MO2-GOG-Steamloader.png)
 
 
 !!! info "How to MO2"
