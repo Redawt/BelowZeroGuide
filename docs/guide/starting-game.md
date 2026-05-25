@@ -19,6 +19,9 @@ If your game crashes or shows a warning for some reason, that most likely means 
 ## Main Menu
 In the main menu, you should go into the `settings` to adjust a few things to your liking, like the color of your HUD and your Pip Boy. Make sure to switch on dialogue subtitles! The mod **Frost Plus** adds a few voiced characters, but some of them are not voiced yet or only partially voiced. You need the dialogue subtitles for that reason.
 
+!!! info "Enabling Survival Mode"
+    Verify if Survival Mode is enabled in the `settings`.
+
 ---
 ## Click New Game
 After clicking New Game, a small FROST intro video will play.

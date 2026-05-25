@@ -25,6 +25,8 @@ theme:
     - content.tooltips
 extra_css:
   - stylesheets/extra.css
+exclude_docs: |
+    /mods/  
 extra:
   generator: false
   social:

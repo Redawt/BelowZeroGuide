@@ -20,8 +20,9 @@ That is why sorting your load order is important, otherwise features from mods w
 
 This section provides information on how to sort your load order regarding FROST and the mods featured in this guide, but also for mods which are not featured in this guide. We do not recommend to use LOOT or any other automatic load order sorting tool, as they tend to sort mods wrong (especially FROST mods).
 
-!!! info "Mods without plugins"
-    Not all mods have an esm/esp/esl plugin. Certain mods that are part of the guide, like **Addictol**, don't have a plugin.
+???+ info "Mods without plugins"
+    Not all mods have an esm/esp/esl plugin, and therefore do not appear in the load order / plugins section. They only appear in the modlist section. The following mods don't have plugins:
+    --8<-- "docs/mods/loadorder/mods-without-plugins.md"
 
 ---
 ## How to sort your mods in your mod manager

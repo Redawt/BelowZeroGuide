@@ -29,3 +29,18 @@ Once F4SE is installed as instructed above, restart MO2 and you should see a new
 ![F4SE in MO2](../assets/images/select_f4se.png "F4SE in MO2")
 
 
+### Enabling steamloader
+
+=== "Steam"
+
+    Steam users don't need to follow this step, only GOG users.
+
+=== "GOG"
+
+    In MO2 you need to enable add a flag to F4SE so that MO2 can properly start Fallout 4.
+    Vortex users do not need to do this step.
+
+    1. Open the **drop-down menu** for the executables in MO2, and select **Edit**
+    ![MO2 Exectuable Image](../assets/images/MO2-Edit-Exe.png)
+    2. Add `-forcesteamloader` in the **Arguments** section of the **F4SE** executable
+    ![MO2 -forcesteamloader](../assets/images/MO2-GOG-Steamloader.png)

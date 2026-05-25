@@ -160,6 +160,8 @@ const incompatible_plugins =  [
             "Wasteland Heroines Replacer All in One_2.0.esp",
             "PRP.esp",
             "PPF.esm",
+            "ppf.esm",
+            "prp.esp",
             "DamnApocalypse_CORE.esm",
             "America Rising - A Tale of the Enclave.esp",
             "DarkerNights.esp",
